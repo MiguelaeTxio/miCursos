@@ -23,6 +23,8 @@ curso indica de qué fuente sale lo que enseña.
 | 2 | Consejo de Europa, buscador oficial de descriptores del MCER: <https://www.coe.int/web/common-european-framework-reference-languages/cefr-descriptors-search> | Comprobar la redacción exacta y el nivel de cada descriptor citado. |
 | 3 | Jean-Claude Beacco (dir.), Sylvie Lepage, Rémy Porquier y Patrick Riba, *Niveau A2 pour le français (utilisateur/apprenant élémentaire) niveau intermédiaire : un référentiel*, Conseil de l'Europe / Didier, París, 2008. Es la descripción oficial del nivel A2 para el francés dentro de las *Descriptions de niveaux de référence* (DNR) del Consejo de Europa. Capítulo 5 (inventario gramatical) consultado en <https://bop.fipf.org/wp-content/uploads/2017/03/refa343342.pdf> | Qué gramática, conectores y formas lingüísticas entran en el A2 de francés (tiempos verbales, pronombres, determinantes, negación, interrogación, marcadores de tiempo, conectores). Fija también lo que **no** se exige todavía en A2 (por ejemplo, el imparfait y el futuro solo para algunos verbos). |
 
+| 4 | Jean-Thierry Le Bougnec y Marie-José Lopes, *Inspire 2* (A2), Hachette FLE, París, 2020: *Précis de phonétique* del libro del alumno. PDF: <https://inspire.hachettefle.fr/ressources/INSP2_LE_PDF/INSP2_precisphonetique.pdf> (`inspire2-2020`) | Puntos de pronunciación del A2 de francés (ritmo, liaison, encadenamiento, vocales y consonantes), porque el capítulo «Matière sonore» del referencial A2 (fuente 3) no está accesible en línea. El MCER (fuente 1) solo describe la inteligibilidad y la prosodia del A2, no una lista de sonidos. |
+
 Si una unidad necesita una fuente distinta, se añade a esta tabla
 antes de usarla.
 

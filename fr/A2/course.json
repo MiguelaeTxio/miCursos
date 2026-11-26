@@ -4,7 +4,7 @@
   "language": "fr",
   "instructionLanguage": "es",
   "level": "A2",
-  "version": 1,
+  "version": 2,
   "title": "Francés A2 (MCER)",
   "sources": [
     {
@@ -16,6 +16,11 @@
       "id": "beacco-a2-2008",
       "title": "Beacco, Lepage, Porquier y Riba, Niveau A2 pour le français : un référentiel (Conseil de l'Europe / Didier, 2008)",
       "url": "https://bop.fipf.org/wp-content/uploads/2017/03/refa343342.pdf"
+    },
+    {
+      "id": "inspire2-2020",
+      "title": "Le Bougnec y Lopes, Inspire 2 (A2), Hachette FLE, 2020 — Précis de phonétique",
+      "url": "https://inspire.hachettefle.fr/ressources/INSP2_LE_PDF/INSP2_precisphonetique.pdf"
     }
   ],
   "units": [
@@ -107,6 +112,33 @@
           "sourceIds": [
             "cefr-cv-2020"
           ]
+        },
+        {
+          "id": "fr-a2.u01.ritmo-acento-final",
+          "type": "phonetics",
+          "title": "Ritmo y acento final",
+          "explanation": "Todas las sílabas duran lo mismo salvo la última del grupo rítmico, que es más larga: el acento cae siempre al final del grupo, nunca en medio de la palabra como en castellano.",
+          "examples": [
+            "Je m'appelle Miguel.",
+            "Il est italien."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020",
+            "inspire2-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u01.entonacion-pregunta",
+          "type": "phonetics",
+          "title": "Entonación de la pregunta",
+          "explanation": "En la pregunta sin palabra interrogativa ni est-ce que, la voz sube al final: es lo único que la distingue de la afirmación.",
+          "examples": [
+            "Tu es français ?",
+            "Tu es français."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
         }
       ]
     },
@@ -184,6 +216,19 @@
           ],
           "sourceIds": [
             "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u02.vocales-y-u",
+          "type": "phonetics",
+          "title": "Las vocales [y] y [u]",
+          "explanation": "La u francesa [y] se dice con los labios redondeados como para ou pero con la lengua adelantada como para i; ou [u] es la u castellana. Confundirlas cambia el sentido: tu / tout, dessus / dessous.",
+          "examples": [
+            "Tu as tout ?",
+            "Le livre est dessus, pas dessous."
+          ],
+          "sourceIds": [
+            "inspire2-2020"
           ]
         }
       ]
@@ -371,6 +416,19 @@
           "sourceIds": [
             "cefr-cv-2020"
           ]
+        },
+        {
+          "id": "fr-a2.u04.e-cerrada-abierta",
+          "type": "phonetics",
+          "title": "[e] cerrada y [ɛ] abierta",
+          "explanation": "é, -er y -ez suenan [e], cerrada; è, ê, -ais y -ait suenan [ɛ], abierta. Al oído es lo que separa j'ai mangé (passé composé) de je mangeais (imparfait).",
+          "examples": [
+            "J'ai mangé une pomme.",
+            "Je mangeais une pomme."
+          ],
+          "sourceIds": [
+            "inspire2-2020"
+          ]
         }
       ]
     },
@@ -436,6 +494,19 @@
           ],
           "sourceIds": [
             "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u05.liaison",
+          "type": "phonetics",
+          "title": "Liaison obligatoria y prohibida",
+          "explanation": "Entre determinante o pronombre y la palabra que sigue, la consonante final muda se pronuncia y se une a la vocal: vous‿allez, les‿amis, un‿ami. Nunca se hace después de et.",
+          "examples": [
+            "Vous allez partir en vacances ?",
+            "Nous avons trois amis."
+          ],
+          "sourceIds": [
+            "inspire2-2020"
           ]
         }
       ]
@@ -598,6 +669,19 @@
           "sourceIds": [
             "cefr-cv-2020"
           ]
+        },
+        {
+          "id": "fr-a2.u07.s-z-ch-j",
+          "type": "phonetics",
+          "title": "[s] / [z] y [ʃ] / [ʒ]",
+          "explanation": "La s entre vocales suena [z] (maison, poison) y ss suena [s] (poisson); ch suena [ʃ], y j, y g ante e o i, suenan [ʒ], una ch con vibración. El castellano no tiene [z] ni [ʒ].",
+          "examples": [
+            "Le poisson n'est pas du poison.",
+            "La maison a un grand garage."
+          ],
+          "sourceIds": [
+            "inspire2-2020"
+          ]
         }
       ]
     },
@@ -669,6 +753,19 @@
           "sourceIds": [
             "beacco-a2-2008"
           ]
+        },
+        {
+          "id": "fr-a2.u08.encadenamiento",
+          "type": "phonetics",
+          "title": "Encadenamiento",
+          "explanation": "La consonante final que sí se pronuncia se une a la vocal de la palabra siguiente, sin pausa: il‿arrive, elle‿a, avec‿elle.",
+          "examples": [
+            "Il arrive à huit heures.",
+            "Elle part avec une amie."
+          ],
+          "sourceIds": [
+            "inspire2-2020"
+          ]
         }
       ]
     },
@@ -734,6 +831,19 @@
           ],
           "sourceIds": [
             "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u09.eu-o-abiertas-cerradas",
+          "type": "phonetics",
+          "title": "[ø] / [œ] y [o] / [ɔ]",
+          "explanation": "eu suena [ø], cerrada, al final de sílaba (deux, yeux) y [œ], abierta, delante de consonante pronunciada (heure, cœur); o suena [o], cerrada, en dos o beau, y [ɔ], abierta, en gorge o bonne.",
+          "examples": [
+            "J'ai mal aux yeux et au dos.",
+            "Il a mal à la gorge depuis deux heures."
+          ],
+          "sourceIds": [
+            "inspire2-2020"
           ]
         }
       ]
@@ -804,6 +914,19 @@
           ],
           "sourceIds": [
             "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u10.r-francesa",
+          "type": "phonetics",
+          "title": "La r francesa",
+          "explanation": "Se articula al fondo de la boca, cerca de la garganta, sin vibrar la punta de la lengua como la r castellana: suena suave, parecida a una j muy ligera.",
+          "examples": [
+            "Je préfère le théâtre.",
+            "Tu as raison, je suis d'accord."
+          ],
+          "sourceIds": [
+            "inspire2-2020"
           ]
         }
       ]
