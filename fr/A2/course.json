@@ -1,0 +1,950 @@
+{
+  "schemaVersion": 1,
+  "id": "fr-a2",
+  "language": "fr",
+  "instructionLanguage": "es",
+  "level": "A2",
+  "version": 1,
+  "title": "Francés A2 (MCER)",
+  "sources": [
+    {
+      "id": "cefr-cv-2020",
+      "title": "Consejo de Europa, Common European Framework of Reference for Languages — Companion volume (2020)",
+      "url": "https://rm.coe.int/16809ea0d4"
+    },
+    {
+      "id": "beacco-a2-2008",
+      "title": "Beacco, Lepage, Porquier y Riba, Niveau A2 pour le français : un référentiel (Conseil de l'Europe / Didier, 2008)",
+      "url": "https://bop.fipf.org/wp-content/uploads/2017/03/refa343342.pdf"
+    }
+  ],
+  "units": [
+    {
+      "id": "fr-a2.u01",
+      "number": 1,
+      "title": "Presentarse y hablar de los demás",
+      "canDo": [
+        {
+          "text": "Puedo establecer contacto social: saludar, despedirme, presentarme y dar las gracias.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo hacer una descripción sencilla de personas y de sus condiciones de vida.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u01.presente-etre-avoir",
+          "type": "grammar",
+          "title": "Presente de être y avoir",
+          "explanation": "Los dos verbos más usados y base del passé composé: je suis, tu es, il est, nous sommes, vous êtes, ils sont; j'ai, tu as, il a, nous avons, vous avez, ils ont.",
+          "examples": [
+            "Je suis espagnol et j'ai quarante ans."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u01.presente-er",
+          "type": "grammar",
+          "title": "Presente de los verbos en -er",
+          "explanation": "Terminaciones -e, -es, -e, -ons, -ez, -ent; las de je, tu, il e ils suenan igual.",
+          "examples": [
+            "Nous habitons à Madrid et nous travaillons ensemble."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u01.posesivos",
+          "type": "grammar",
+          "title": "Determinantes posesivos",
+          "explanation": "Concuerdan con lo poseído: mon, ma, mes; ton, ta, tes; son, sa, ses; notre, nos; votre, vos; leur, leurs. Delante de vocal se usa mon aunque sea femenino (mon amie).",
+          "examples": [
+            "C'est ma femme et voici mes enfants."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u01.pronombres-tonicos",
+          "type": "grammar",
+          "title": "Pronombres tónicos",
+          "explanation": "moi, toi, lui, elle, nous, vous, eux, elles: para destacar (Moi, je…), tras preposición (avec lui) y con c'est.",
+          "examples": [
+            "Moi, je travaille ; lui, il étudie.",
+            "C'est moi !"
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u01.interrogacion",
+          "type": "grammar",
+          "title": "Las tres formas de preguntar",
+          "explanation": "Entonación (Tu viens ?), est-ce que (Est-ce que tu viens ?) e inversión, más formal (Venez-vous ?). Mots interrogatifs: qui, quoi, quand, où, comment, pourquoi, combien, quel.",
+          "examples": [
+            "Où est-ce que tu habites ?",
+            "Comment vous appelez-vous ?"
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u01.familia-nacionalidades",
+          "type": "vocabulary",
+          "title": "Familia, nacionalidades y profesiones básicas",
+          "explanation": "Vocabulario para presentarse y presentar a otros.",
+          "examples": [
+            "Mon frère est marié, il a deux filles."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u02",
+      "number": 2,
+      "title": "La vida diaria y las rutinas",
+      "canDo": [
+        {
+          "text": "Puedo preguntar y responder sobre hábitos y rutinas.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo escribir entradas de diario que describan actividades como la rutina diaria, salidas, deportes o aficiones.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u02.verbos-pronominales",
+          "type": "grammar",
+          "title": "Verbos pronominales en presente",
+          "explanation": "Llevan un pronombre que concuerda con el sujeto: je me lève, tu te lèves, il se lève, nous nous levons, vous vous levez, ils se lèvent.",
+          "examples": [
+            "Je me lève à sept heures et je me douche."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u02.verbos-irregulares",
+          "type": "grammar",
+          "title": "Presente de los verbos irregulares más frecuentes",
+          "explanation": "aller, venir, faire, vouloir, pouvoir, devoir, savoir, dire, comprendre y connaître.",
+          "examples": [
+            "Je fais les courses, puis je dois partir."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u02.on",
+          "type": "grammar",
+          "title": "El pronombre on",
+          "explanation": "Equivale a «nosotros» en lenguaje corriente o a un sujeto general («se»). El verbo va en tercera persona del singular.",
+          "examples": [
+            "On mange à quatorze heures en Espagne."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u02.negacion",
+          "type": "grammar",
+          "title": "Negaciones del A2",
+          "explanation": "ne… pas, ne… jamais (nunca), ne… plus (ya no), ne… rien (nada), ne… personne (nadie). Tras la negación, un/une/des pasan a de.",
+          "examples": [
+            "Il ne mange jamais de viande.",
+            "Je ne travaille plus le samedi."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u02.hora-frecuencia",
+          "type": "vocabulary",
+          "title": "La hora y la frecuencia",
+          "explanation": "Il est huit heures et quart / et demie / moins le quart; toujours, souvent, parfois, jamais.",
+          "examples": [
+            "Je vais souvent au marché le dimanche matin."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u03",
+      "number": 3,
+      "title": "Contar el pasado",
+      "canDo": [
+        {
+          "text": "Puedo describir actividades pasadas y experiencias personales.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo preguntar y responder sobre pasatiempos y actividades pasadas.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo contar una historia sencilla, por ejemplo lo que pasó en unas vacaciones.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u03.passe-compose-avoir",
+          "type": "grammar",
+          "title": "Passé composé con avoir",
+          "explanation": "Presente de avoir + participio pasado. Es el auxiliar de la gran mayoría de verbos, también de muchos de movimiento como marcher, courir o voyager.",
+          "examples": [
+            "Hier, j'ai mangé avec mes collègues.",
+            "Ils ont marché pendant deux heures."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u03.participios-irregulares",
+          "type": "grammar",
+          "title": "Participios pasados irregulares",
+          "explanation": "Los más frecuentes: fait, pris, vu, bu, lu, eu, été, dit, mis, couru, venu, né, mort, plu (de pleuvoir).",
+          "examples": [
+            "J'ai pris le train et j'ai lu un livre."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u03.passe-compose-etre",
+          "type": "grammar",
+          "title": "Passé composé con être",
+          "explanation": "Lo llevan unos dieciséis verbos de movimiento o cambio de estado (aller, venir, partir, arriver, entrer, sortir, monter, descendre, rester, tomber, naître, mourir, rentrer, retourner, devenir, revenir) y todos los pronominales.",
+          "examples": [
+            "Elle est partie à huit heures."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u03.concordancia-etre",
+          "type": "grammar",
+          "title": "Concordancia del participio con être",
+          "explanation": "Con être, el participio concuerda con el sujeto en género y número: -e en femenino, -s en plural.",
+          "examples": [
+            "Nous sommes rentrés tard.",
+            "Elles sont arrivées hier."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u03.passe-compose-pronominales",
+          "type": "grammar",
+          "title": "Passé composé de los verbos pronominales",
+          "explanation": "Siempre con être y el pronombre delante del auxiliar.",
+          "examples": [
+            "Je me suis levé tôt.",
+            "Elle s'est couchée à minuit."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u03.negacion-passe-compose",
+          "type": "grammar",
+          "title": "La negación en passé composé",
+          "explanation": "ne… pas rodea solo al auxiliar, nunca al participio.",
+          "examples": [
+            "Je n'ai pas vu ce film.",
+            "Il n'est pas venu."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u03.conectores-tiempo",
+          "type": "grammar",
+          "title": "Conectores para ordenar una narración",
+          "explanation": "d'abord, ensuite, puis, après, alors, enfin.",
+          "examples": [
+            "D'abord, j'ai pris un café ; ensuite, je suis sorti ; enfin, je suis rentré."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u03.marcadores-pasado",
+          "type": "communication",
+          "title": "Situar los hechos en el pasado",
+          "explanation": "hier, avant-hier, samedi dernier, la semaine dernière, il y a + duración (hace…), pendant + duración (durante…).",
+          "examples": [
+            "Il y a deux jours, nous sommes allés à Malaga."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u03.ils-ont-ils-sont",
+          "type": "phonetics",
+          "title": "ils ont / ils sont",
+          "explanation": "La liaison de ils ont suena /z/ (il-zon) y ils sont suena /s/ (il-son): es lo que distingue avoir de être al oído.",
+          "examples": [
+            "Ils ont couru, puis ils sont rentrés."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u04",
+      "number": 4,
+      "title": "Recuerdos y descripciones en pasado",
+      "canDo": [
+        {
+          "text": "Puedo dar descripciones breves y básicas de acontecimientos, actividades pasadas y experiencias personales.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo describir aspectos cotidianos de mi entorno, como personas y lugares.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u04.imperfecto-etre-avoir",
+          "type": "grammar",
+          "title": "Imparfait de être y avoir",
+          "explanation": "En A2 el imparfait se reconoce y se usa con unos pocos verbos: j'étais, il était; j'avais, il avait. Sirve para describir cómo eran las cosas.",
+          "examples": [
+            "Quand j'étais petit, j'avais un chien."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u04.imperfecto-faire-aller",
+          "type": "grammar",
+          "title": "Imparfait de faire y aller",
+          "explanation": "il faisait (el tiempo), nous allions (costumbres pasadas).",
+          "examples": [
+            "Il faisait beau ; nous allions à la plage."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u04.tiempo-atmosferico",
+          "type": "vocabulary",
+          "title": "El tiempo que hace",
+          "explanation": "Il fait beau / chaud / froid, il pleut, il neige, et en passé: il faisait froid, il a plu.",
+          "examples": [
+            "Hier, il a plu toute la journée."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u05",
+      "number": 5,
+      "title": "Planes y futuro",
+      "canDo": [
+        {
+          "text": "Puedo preguntar y responder sobre planes e intenciones.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo hablar de qué hacer por la tarde o el fin de semana.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u05.futur-proche",
+          "type": "grammar",
+          "title": "Futur proche",
+          "explanation": "Presente de aller + infinitivo, para planes e intenciones.",
+          "examples": [
+            "Ce soir, je vais regarder un film."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u05.futuro-simple",
+          "type": "grammar",
+          "title": "Reconocer el futuro simple",
+          "explanation": "Terminaciones -ai, -as, -a, -ons, -ez, -ont. En A2 se usa sobre todo con avoir (j'aurai), être (je serai), aller (j'irai) y faire (je ferai).",
+          "examples": [
+            "Demain, il fera beau.",
+            "J'irai à Paris en mai."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u05.marcadores-futuro",
+          "type": "communication",
+          "title": "Situar en el futuro",
+          "explanation": "demain, ce soir, la semaine prochaine, à + momento (à lundi, à demain).",
+          "examples": [
+            "On se voit la semaine prochaine ? — Oui, à lundi !"
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u05.hipotesis-si",
+          "type": "grammar",
+          "title": "Si + presente",
+          "explanation": "Para condiciones sencillas: si + presente, presente o futuro.",
+          "examples": [
+            "Si tu veux, on peut sortir ce soir."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u06",
+      "number": 6,
+      "title": "Comer y comprar",
+      "canDo": [
+        {
+          "text": "Puedo hacer compras sencillas diciendo lo que quiero y preguntando el precio.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo pedir una comida.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo encontrar información concreta en textos prácticos y previsibles, como recetas.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u06.partitivos",
+          "type": "grammar",
+          "title": "Artículos partitivos",
+          "explanation": "du, de la, de l', des para cantidades no contadas.",
+          "examples": [
+            "Je voudrais du pain, de la confiture et de l'eau."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u06.cantidades",
+          "type": "grammar",
+          "title": "Cantidades con de",
+          "explanation": "Tras una cantidad o una negación se usa de: un kilo de, beaucoup de, pas de.",
+          "examples": [
+            "Un kilo de tomates, s'il vous plaît.",
+            "Je ne mange pas de viande."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u06.demostrativos",
+          "type": "grammar",
+          "title": "Demostrativos",
+          "explanation": "ce, cet (delante de vocal), cette, ces; y los pronombres celui-ci, celle-là.",
+          "examples": [
+            "Je prends ce pull ? Non, je préfère celui-ci."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u06.precio-combien",
+          "type": "communication",
+          "title": "Preguntar el precio",
+          "explanation": "Combien coûte… ? / C'est combien ? y responder con cantidades.",
+          "examples": [
+            "Combien coûte ce pull ? — Il coûte trente euros."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u06.pedir-en-restaurante",
+          "type": "communication",
+          "title": "Pedir en un restaurante",
+          "explanation": "Fórmulas para pedir, preguntar y pagar.",
+          "examples": [
+            "Pour moi, une salade, s'il vous plaît.",
+            "L'addition, s'il vous plaît."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u06.vocales-nasales",
+          "type": "phonetics",
+          "title": "Vocales nasales",
+          "explanation": "Las cuatro nasales de un bon vin blanc: un, on, in, an. No se pronuncia la consonante final.",
+          "examples": [
+            "Nous avons pris un bon vin blanc."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u07",
+      "number": 7,
+      "title": "La casa y la ciudad",
+      "canDo": [
+        {
+          "text": "Puedo entender indicaciones sencillas para ir de un sitio a otro a pie o en transporte público.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo entender letreros y avisos cotidianos en lugares públicos.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u07.imperativo",
+          "type": "grammar",
+          "title": "Imperativo",
+          "explanation": "Sobre todo con tu y vous, sin sujeto. En negativo: ne + imperativo + pas.",
+          "examples": [
+            "Tournez à gauche, puis continuez tout droit.",
+            "Ne partez pas !"
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u07.pedir-direccion",
+          "type": "communication",
+          "title": "Preguntar el camino",
+          "explanation": "Pardon, où est… ? / Pour aller à… ? y entender la respuesta.",
+          "examples": [
+            "Pardon, où est la poste, s'il vous plaît ?"
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u07.lugar",
+          "type": "communication",
+          "title": "Situar en el espacio",
+          "explanation": "il y a (hay), à côté de, en face de, devant, derrière, dans.",
+          "examples": [
+            "Dans mon quartier, il y a un parc en face de la gare."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u07.vivienda",
+          "type": "vocabulary",
+          "title": "La vivienda y el barrio",
+          "explanation": "Habitaciones, muebles y servicios del barrio.",
+          "examples": [
+            "Mon appartement a trois chambres et une cuisine."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u08",
+      "number": 8,
+      "title": "Viajes y transporte",
+      "canDo": [
+        {
+          "text": "Puedo desenvolverme en aspectos cotidianos como viajes, alojamiento, comidas y compras.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo entender anuncios sencillos, por ejemplo que un tren se ha retrasado.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo entender correos formales muy sencillos, como la confirmación de una reserva.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u08.preposiciones-lugares",
+          "type": "grammar",
+          "title": "Preposiciones con ciudades y países",
+          "explanation": "à + ciudad; en + país femenino; au + país masculino; aux + plural.",
+          "examples": [
+            "Je vais en France, à Lyon.",
+            "Il habite au Portugal ; elle, aux États-Unis."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u08.medios-transporte",
+          "type": "vocabulary",
+          "title": "Medios de transporte",
+          "explanation": "en train, en voiture, en avion; pero à pied, à vélo.",
+          "examples": [
+            "Je vais au travail à pied, pas en voiture."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u08.condicional-cortesia",
+          "type": "grammar",
+          "title": "Condicional de cortesía",
+          "explanation": "Formas fijas para pedir con educación: je voudrais, vous pourriez, tu aurais.",
+          "examples": [
+            "Je voudrais une chambre pour deux nuits.",
+            "Pourriez-vous m'aider ?"
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u08.fechas-precios",
+          "type": "communication",
+          "title": "Fechas, horarios y precios",
+          "explanation": "le 30 novembre, à 8 heures, 80 euros par nuit.",
+          "examples": [
+            "Le train part le 30 novembre à 8 heures ; c'est 80 euros par nuit à l'hôtel."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u09",
+      "number": 9,
+      "title": "La salud",
+      "canDo": [
+        {
+          "text": "Puedo entender y seguir instrucciones para actividades cotidianas.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo desenvolverme en intercambios sencillos y habituales de información.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u09.avoir-mal",
+          "type": "communication",
+          "title": "Decir qué duele",
+          "explanation": "avoir mal à + parte del cuerpo, con contracciones au y aux.",
+          "examples": [
+            "J'ai mal à la tête, au dos et aux dents."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u09.cuerpo",
+          "type": "vocabulary",
+          "title": "El cuerpo y los síntomas",
+          "explanation": "Partes del cuerpo, fièvre, rhume, fatigué.",
+          "examples": [
+            "Il a de la fièvre et il est fatigué."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u09.obligacion",
+          "type": "grammar",
+          "title": "Il faut y devoir",
+          "explanation": "il faut + infinitivo (obligación general); devoir + infinitivo (obligación personal).",
+          "examples": [
+            "Il faut boire de l'eau.",
+            "Tu dois te reposer."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u09.consejos",
+          "type": "communication",
+          "title": "Dar un consejo",
+          "explanation": "Con el condicional de devoir como forma fija: tu devrais, vous devriez.",
+          "examples": [
+            "Tu devrais aller chez le médecin."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u10",
+      "number": 10,
+      "title": "Gustos y opiniones",
+      "canDo": [
+        {
+          "text": "Puedo explicar lo que me gusta o no me gusta de algo.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo intercambiar opiniones y comparar cosas y personas con un lenguaje sencillo.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo mostrar acuerdo y desacuerdo con otras personas.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u10.gustos",
+          "type": "communication",
+          "title": "Expresar gustos",
+          "explanation": "aimer, adorer, préférer, détester + nombre o infinitivo.",
+          "examples": [
+            "J'adore lire mais je déteste faire la cuisine."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u10.causa-consecuencia",
+          "type": "grammar",
+          "title": "Causa, consecuencia y oposición",
+          "explanation": "parce que, à cause de (causa); donc, alors, c'est pour cela (consecuencia); mais (oposición).",
+          "examples": [
+            "Je reste à la maison parce qu'il pleut ; donc, je lis."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u10.comparar",
+          "type": "communication",
+          "title": "Comparar",
+          "explanation": "plus… que, moins… que, aussi… que; bon da meilleur.",
+          "examples": [
+            "Le train est plus rapide que le bus.",
+            "Ce gâteau est meilleur que l'autre."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u10.opinion-acuerdo",
+          "type": "communication",
+          "title": "Dar la opinión y mostrar acuerdo",
+          "explanation": "Je pense que…, À mon avis…, Je suis d'accord / Je ne suis pas d'accord.",
+          "examples": [
+            "À mon avis, c'est intéressant. — Je suis d'accord !"
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u11",
+      "number": 11,
+      "title": "Invitar, aceptar y rechazar; mensajes",
+      "canDo": [
+        {
+          "text": "Puedo hacer y responder invitaciones, sugerencias y disculpas.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo escribir notas, correos y mensajes cortos, por ejemplo para responder a una invitación.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo escribir cartas personales muy sencillas de agradecimiento y disculpa.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u11.invitar",
+          "type": "communication",
+          "title": "Invitar, aceptar y rechazar",
+          "explanation": "Tu es libre… ? Avec plaisir ! Désolé, je ne peux pas.",
+          "examples": [
+            "Tu es libre samedi ? — Désolé, je ne peux pas."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u11.pronombres-cod",
+          "type": "grammar",
+          "title": "Pronombres de complemento directo",
+          "explanation": "le, la, l', les y me, te, nous, vous delante del verbo.",
+          "examples": [
+            "Ce film ? Je le regarde ce soir.",
+            "Je vous écoute."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u11.pronombres-coi",
+          "type": "grammar",
+          "title": "Pronombres de complemento indirecto me, te, nous, vous",
+          "explanation": "En A2 se piden para las personas yo, tú, nosotros y vosotros: téléphoner à quelqu'un → je te téléphone.",
+          "examples": [
+            "Je te téléphone ce soir.",
+            "Il nous écrit chaque mois."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u11.relativos",
+          "type": "grammar",
+          "title": "Relativos qui, que, où",
+          "explanation": "qui (sujeto), que (complemento), où (lugar o momento).",
+          "examples": [
+            "C'est l'ami qui habite à Paris.",
+            "La ville où je suis né est petite."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u11.mensaje-corto",
+          "type": "communication",
+          "title": "Escribir un mensaje o correo corto",
+          "explanation": "Saludo, mensaje y despedida de registro informal.",
+          "examples": [
+            "Salut Marie, merci pour l'invitation ! À samedi. Bises."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr-a2.u12",
+      "number": 12,
+      "title": "Trabajo y estudios",
+      "canDo": [
+        {
+          "text": "Puedo describir aspectos cotidianos de mi entorno, como mi trabajo o mis estudios.",
+          "sourceId": "cefr-cv-2020"
+        },
+        {
+          "text": "Puedo rellenar mis datos personales en la mayoría de formularios cotidianos.",
+          "sourceId": "cefr-cv-2020"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "fr-a2.u12.profesiones-lugares",
+          "type": "vocabulary",
+          "title": "Profesiones y lugares de trabajo",
+          "explanation": "Nombres de profesiones con su femenino y lugares de trabajo.",
+          "examples": [
+            "Je suis ingénieur, je travaille dans un bureau."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        },
+        {
+          "id": "fr-a2.u12.indefinidos",
+          "type": "grammar",
+          "title": "Indefinidos",
+          "explanation": "tout, rien, personne; y los determinantes quelques, plusieurs, chaque.",
+          "examples": [
+            "Tout va bien.",
+            "Chaque jour, j'écris plusieurs e-mails."
+          ],
+          "sourceIds": [
+            "beacco-a2-2008"
+          ]
+        },
+        {
+          "id": "fr-a2.u12.formularios",
+          "type": "communication",
+          "title": "Rellenar un formulario",
+          "explanation": "nom, prénom, date de naissance, adresse, profession.",
+          "examples": [
+            "Nom : Pérez. Prénom : Ana. Profession : professeure."
+          ],
+          "sourceIds": [
+            "cefr-cv-2020"
+          ]
+        }
+      ]
+    }
+  ]
+}

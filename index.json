@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "courses": [
+    {
+      "id": "fr-a2",
+      "language": "fr",
+      "level": "A2",
+      "title": "Francés A2 (MCER)",
+      "path": "fr/A2/course.json",
+      "version": 1
+    }
+  ]
+}
